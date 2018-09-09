@@ -1,0 +1,20 @@
+{
+  "name": "sentinel-app",
+  "description": "The modern APP of access control system.",
+  "license": "MIT",
+  "readme": "SENTINEL",
+  "nativescript": {
+    "id": "org.toolbuddy.sentinel"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "^1.0.4",
+    "nativescript-vue": "^1.3.1",
+    "tns-core-modules": "~3.4.1"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11"
+  }
+}
